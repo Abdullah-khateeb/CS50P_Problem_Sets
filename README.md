@@ -19,6 +19,7 @@ For Reference Only
 <a href="https://certificates.cs50.io/26bc685e-df4e-41fa-9f77-cb7451aa61e9.png">
   <img src="https://certificates.cs50.io/26bc685e-df4e-41fa-9f77-cb7451aa61e9.png" alt="cs50p-certificates" />
 </a>
+
 ## Course Overview
 
 - **Instructor**: [David J. Malan](mailto:malan@harvard.edu)
