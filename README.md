@@ -20,6 +20,7 @@ For Reference Only
 <a href="https://certificates.cs50.io/26bc685e-df4e-41fa-9f77-cb7451aa61e9.png?size=A4">
   <img src="https://certificates.cs50.io/26bc685e-df4e-41fa-9f77-cb7451aa61e9.png?size=A4" alt="cs50p-certificates" />
 </a>
+
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/Week%200/Indoor%20Voice)
